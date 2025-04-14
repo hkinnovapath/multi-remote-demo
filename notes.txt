@@ -1,2 +1,2 @@
 Some notes go here.
-this is second line add for main remote
+this is second line add for backup remote
